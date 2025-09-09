@@ -1,0 +1,79 @@
+body
+{
+padding-left: 1em;
+padding-right: 1em;
+font-family: Arial, Helvetica, sans-serif;
+}
+h2 
+{
+color: #770000;
+}
+#intro
+{
+font-size:1.2em;
+background-color: #F0F0F0;
+padding-top:12px;
+padding-bottom:12px;
+}
+#menu1 
+{
+font-size:1.4em;
+background-color: #F0F0F0;
+padding-top:12px;
+padding-bottom:12px;
+}
+#cv
+{
+line-height:150%;
+background-color: #F0F0F0;
+padding-top:12px;
+padding-bottom:12px;
+}
+#teach
+{
+background-color: #F0F0F0;
+padding-top:12px;
+padding-bottom:12px;
+}
+#proj
+{
+background-color: #F0F0F0;
+padding-top:12px;
+padding-bottom:12px;
+}
+#pub
+{
+background-color: #F0F0F0;
+padding-top:12px;
+padding-bottom:12px;
+}
+#misc
+{
+background-color: #F0F0F0;
+padding-top:12px;
+padding-bottom:12px;
+}
+#TFM
+{
+background-color: #F0F0F0;
+padding-top:12px;
+padding-bottom:12px;
+}
+ul.listasimple{
+margin-bottom: 0em;
+}
+li
+{
+margin-bottom: .8em;
+}
+table.tablamenu
+{
+font-size:1.3em;
+width: 100%;
+background-color: #F0F0F0;
+}
+table.tablamenu td
+{
+text-align: center;
+width: 25%;
+}
